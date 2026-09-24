@@ -3,9 +3,7 @@
 A multi-page personal portfolio website built as part of **CS344: Web Engineering – Lab 3 (HTML Advanced: Personal Portfolio II)**.
 
 ## Live Site
-
-[[[[https://username.github.io/portfolio/](https://username.github.io/portfolio/)](https://amna2327.github.io/portfolio/) <!-- update with your actual GitHub Pages link -->](https://amna2327.github.io/portfolio/)
-](https://amna2327.github.io/portfolio/)
+[https://amna2327.github.io/portfolio/](https://amna2327.github.io/portfolio/)
 ## Overview
 
 This project extends a basic HTML portfolio into a properly organized, CSS-styled, multi-page website. All styling was moved out of inline attributes and page-level `<style>` blocks into a single external stylesheet, and the layout uses CSS `float` and `clear` for positioning content — no CSS frameworks and no JavaScript.
