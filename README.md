@@ -4,7 +4,7 @@ A multi-page personal portfolio website built as part of **CS344: Web Engineerin
 
 ## Live Site
 
-[https://username.github.io/portfolio/](https://username.github.io/portfolio/) <!-- update with your actual GitHub Pages link -->
+[[https://username.github.io/portfolio/](https://username.github.io/portfolio/)](https://amna2327.github.io/portfolio/) <!-- update with your actual GitHub Pages link -->
 
 ## Overview
 
